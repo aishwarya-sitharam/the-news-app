@@ -9,7 +9,7 @@ app.js: the index file
 
 news.js: calls API to display articles by country and also to display articles by search
 
-news.ejs: display with express js
+news.ejs: display with ejs
 
 news.test.js: with jest, testing:
 - response of an API call
